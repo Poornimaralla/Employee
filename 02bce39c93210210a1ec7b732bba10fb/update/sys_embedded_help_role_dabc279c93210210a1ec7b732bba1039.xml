@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_805110_employe_0.admin" name="x_805110_employe_0.admin">9ebc279c93210210a1ec7b732bba1036</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-10 05:54:36</sys_created_on>
+        <sys_id>dabc279c93210210a1ec7b732bba1039</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9ebc279c93210210a1ec7b732bba1036</sys_name>
+        <sys_package display_value="Employee onboarding Application " source="x_805110_employe_0">02bce39c93210210a1ec7b732bba10fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee onboarding Application ">02bce39c93210210a1ec7b732bba10fb</sys_scope>
+        <sys_update_name>sys_embedded_help_role_dabc279c93210210a1ec7b732bba1039</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-10 05:54:36</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
